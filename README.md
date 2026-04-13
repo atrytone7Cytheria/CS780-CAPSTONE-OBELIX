@@ -19,6 +19,9 @@ This project explores training and improving agents using multiple approaches. D
 
 * **submissions/**
   This folder contains all the zip files submitted on Codabench.
+  FINAL SUBMISSION IS NAMED W3_7.ZIP
+  W2_6 IS THE SUBMISSION I SUBMITTED AS IT GAVE HIGHEST SUCCESS RATE
+  
   They are organized week-wise and include the agent along with its corresponding weights.
 
 ## Notes
